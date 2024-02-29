@@ -3,8 +3,8 @@
 ## Tech Stack
 2lambda123/PortfolioU is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
 - [MATLAB](http://www.mathworks.com/products/matlab/) – Languages
+- [Python](https://www.python.org) – Languages
 - [Jupyter](http://jupyter.org) – Data Science Notebooks
 
 Full tech stack [here](/techstack.md)
@@ -15,8 +15,8 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/PortfolioU is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg' alt='MATLAB'/> [MATLAB](http://www.mathworks.com/products/matlab/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
 
 Full tech stack [here](/techstack.md)
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/PortfolioU](https://github.com/2lambda123/PortfolioU)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|01/09/24 <br/>Report generated|
+|4<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
